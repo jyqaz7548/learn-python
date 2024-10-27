@@ -6,3 +6,6 @@
 
 print(중고차[0])
 print(중고차2['brand']) 
+
+
+print

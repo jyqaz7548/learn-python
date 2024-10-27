@@ -10,3 +10,5 @@ print(name)
 
 print(name[0]) #0부터 시작함 , 출력 결과:슈
 print(name[0:4]) #4번째 까지
+
+print("안녕하세요.")
