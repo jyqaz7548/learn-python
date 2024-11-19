@@ -11,7 +11,11 @@ print(name)
 print(name[0]) #0부터 시작함 , 출력 결과:슈
 print(name[0:4]) #4번째 까지
 
+<<<<<<< HEAD
 a = 'hello'
 b = " world!"
 print(a+b)
 
+=======
+print("안녕하세요.")
+>>>>>>> f19476da250896b9875c47897ee1a32088c5712f
